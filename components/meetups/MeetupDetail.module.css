@@ -1,0 +1,16 @@
+.detail{
+    text-align: center;
+}
+.detail img{
+    width: 100%;
+}
+
+.detail h1{
+    text-transform: uppercase;
+    font-size: 2rem;
+    margin-block: 2rem;
+}
+
+.detail p{
+    margin-top:1rem;
+}
